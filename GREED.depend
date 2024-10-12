@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1728763677 source:c:\users\mi pc\utn\programacion\pdf primer cuatri profe simon\tp integrador\proyecto greed\greed\main.cpp
+	<iostream>
+	"Funciones.h"
+
+1728763227 c:\users\mi pc\utn\programacion\pdf primer cuatri profe simon\tp integrador\proyecto greed\greed\funciones.h
+
+1728763227 source:c:\users\mi pc\utn\programacion\pdf primer cuatri profe simon\tp integrador\proyecto greed\greed\titulo y menu.cpp
+	<iostream>
+	"Funciones.h"
+
+1728763982 source:c:\users\mi pc\utn\programacion\pdf primer cuatri profe simon\tp integrador\proyecto greed\greed\creditos.cpp
+	<iostream>
+	"Funciones.h"
+
